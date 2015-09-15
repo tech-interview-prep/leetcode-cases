@@ -1,0 +1,2 @@
+insert("ab"),search("a"),startsWith("a")
+[false,true]
